@@ -1,7 +1,3 @@
-# прошу прощения
-# случайно  не то отправил ))
-
-
 from dataclasses import dataclass, asdict
 from statistics import mean
 from typing import Sequence, Tuple, List, ClassVar
